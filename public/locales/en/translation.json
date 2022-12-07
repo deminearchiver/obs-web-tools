@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "title": "OBS Web Tools",
+        "description": "Some useful tools for OBS Studio!",
+        "url": "https://deminearchiver.github.io/obs-web-tools/",
+        "og": {
+            "title": "global",
+            "description": "global",
+            "url": "global",
+            "type": "website"
+        },
+        "twitter": {
+            "title": "global",
+            "description": "global",
+            "url": "global"
+        },
+        "theme-color": "#000000"
+    },
+    "pages": {
+        "home": {
+            "title": "Home"
+        }
+    }
+}
